@@ -1,0 +1,36 @@
+File: CC_SOUID121039.txt
+Line 13: 17-21 CC   : cloud cover in oktas
+
+File: FG_SOUID121048.txt
+Line 13: 17-21 FG   : wind speed in 0.1 m/s
+
+File: FX_SOUID121049.txt
+Line 13: 17-21 FX   : wind gust in 0.1 m/s
+
+File: HU_SOUID121047.txt
+Line 13: 17-21 HU   : humidity in 1 %
+
+File: PP_SOUID121041.txt
+Line 13: 17-21 PP   : sea level pressure in 0.1 hPa
+
+File: QQ_SOUID210447.txt
+Line 13: 17-21 QQ   : global radiation in W/m2
+
+File: RR_SOUID121042.txt
+Line 13: 17-21 RR   : precipitation amount in 0.1 mm
+
+File: SD_SOUID121043.txt
+Line 13: 17-21 SD   : snow depth in 1 cm
+
+File: SS_SOUID121040.txt
+Line 13: 17-21 SS   : sunshine in 0.1 Hours
+
+File: TG_SOUID121044.txt
+Line 13: 17-21 TG   : mean temperature in 0.1 &#176;C
+
+File: TN_SOUID121045.txt
+Line 13: 17-21 TN   : minimum temperature in 0.1 &#176;C
+
+File: TX_SOUID121046.txt
+Line 13: 17-21 TX   : maximum temperature in 0.1 &#176;C
+

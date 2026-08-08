@@ -1,0 +1,13 @@
+Filename,Description
+CC_SOUID121039.csv,cloud cover in oktas
+FG_SOUID121048.csv,wind speed in 0.1 m/s
+FX_SOUID121049.csv,wind gust in 0.1 m/s
+HU_SOUID121047.csv,humidity in 1 %
+PP_SOUID121041.csv,sea level pressure in 0.1 hPa
+QQ_SOUID210447.csv,global radiation in W/m2
+RR_SOUID121042.csv,precipitation amount in 0.1 mm
+SD_SOUID121043.csv,snow depth in 1 cm
+SS_SOUID121040.csv,sunshine in 0.1 Hours
+TG_SOUID121044.csv,mean temperature in 0.1 °C
+TN_SOUID121045.csv,minimum temperature in 0.1 °C
+TX_SOUID121046.csv,maximum temperature in 0.1 °C

@@ -1,0 +1,14 @@
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+,,,,,,,,,,,
+3996,121039,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, CC1,19570901,20241031,   11,National Climate Data Center (DWD)
+3996,121040,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, SS3,19571001,20241031,   11,National Climate Data Center (DWD)
+3996,121041,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, PP2,19570901,20180227,   11,National Climate Data Center (DWD)
+3996,121042,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, RR3,19310101,20241031,   11,National Climate Data Center (DWD)
+3996,121043,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, SD3,19570901,20241031,   11,National Climate Data Center (DWD)
+3996,121044,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, TG3,19570901,20241031,   11,National Climate Data Center (DWD)
+3996,121045,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, TN3,19570901,20241031,   11,National Climate Data Center (DWD)
+3996,121046,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, TX3,19570901,20241031,   11,National Climate Data Center (DWD)
+3996,121047,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, HU3,19570901,20241031,   11,National Climate Data Center (DWD)
+3996,121048,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, FG7,19570701,20241031,   11,National Climate Data Center (DWD)
+3996,121049,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, FX1,19570701,20241031,   11,National Climate Data Center (DWD)
+3996,210447,KOLN-BONN                               ,DE,+50:51:58,+007:09:31,  92, QQ6,19571001,20241031,   11,National Climate Data Center (DWD)
